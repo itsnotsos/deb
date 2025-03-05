@@ -15,7 +15,7 @@ usage() {
 # Assign arguments to variables
 #REPOSITORY=$1
 #FILE_PATTERN=$2
-REPOSITORY='FajoX1/fagram'
+REPOSITORY='FajoX1/fagramdesktop'
 FILE_PATTERN='fagram-v*.tar.gz'
 
 
